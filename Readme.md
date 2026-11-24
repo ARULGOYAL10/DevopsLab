@@ -1,7 +1,7 @@
 # Python Calculator
 
-A user-friendly command-line calculator built using Python.
 
+A user-friendly and efficient command-line calculator developed using Python.
 ## Features
 - Addition
 - Subtraction
